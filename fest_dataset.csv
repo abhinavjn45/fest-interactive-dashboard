@@ -1,0 +1,251 @@
+Student Name,College,Phone Number,Place,State,Event Name,Event Type,Amount Paid,Feedback on Fest,Rating
+Student1,Anna University,9100000001,Kochi,Kerala,Coding Challenge,Individual,200,Excellent experience,3
+Student2,Amrita University,9100000002,Chennai,Tamil Nadu,Coding Challenge,Individual,200,Excellent experience,3
+Student3,RV College,9100000003,Noida,Uttar Pradesh,Hackathon,Group,500,Fun and informative,5
+Student4,Anna University,9100000004,Kochi,Kerala,Project Expo,Group,400,Challenging and useful,4
+Student5,Christ University,9100000005,Vellore,Tamil Nadu,Paper Presentation,Individual,250,Interesting and engaging session,5
+Student6,PES University,9100000006,Manipal,Karnataka,UI Design,Individual,200,Well organized and informative,5
+Student7,VIT University,9100000007,Kochi,Kerala,Hackathon,Group,500,Fun and informative,3
+Student8,Nirma University,9100000008,Hyderabad,Telangana,Quiz Competition,Group,300,Excellent experience,5
+Student9,PES University,9100000009,Delhi,Delhi,Paper Presentation,Individual,250,Interesting and engaging session,3
+Student10,Manipal Institute,9100000010,Bangalore,Karnataka,Coding Challenge,Individual,200,Challenging and useful,3
+Student11,IIT Madras,9100000011,Ahmedabad,Gujarat,Debugging Contest,Individual,150,Creative and interactive,4
+Student12,RV College,9100000012,Manipal,Karnataka,Hackathon,Group,500,Creative and interactive,5
+Student13,BITS Pilani,9100000013,Bangalore,Karnataka,Debugging Contest,Individual,150,Good exposure to projects,4
+Student14,IIT Madras,9100000014,Manipal,Karnataka,Debugging Contest,Individual,150,Very engaging and practical,3
+Student15,Amrita University,9100000015,Vellore,Tamil Nadu,Paper Presentation,Individual,250,Interesting and engaging session,5
+Student16,Nirma University,9100000016,Vellore,Tamil Nadu,Paper Presentation,Individual,250,Good exposure to projects,3
+Student17,MIT Pune,9100000017,Ahmedabad,Gujarat,Hackathon,Group,500,Challenging and useful,5
+Student18,SSN College,9100000018,Kochi,Kerala,Paper Presentation,Individual,250,Good exposure to projects,3
+Student19,MIT Pune,9100000019,Chennai,Tamil Nadu,Coding Challenge,Individual,200,Very creative event,5
+Student20,PES University,9100000020,Ahmedabad,Gujarat,Hackathon,Group,500,Good exposure to projects,3
+Student21,Anna University,9100000021,Hyderabad,Telangana,Quiz Competition,Group,300,Creative and interactive,4
+Student22,Manipal Institute,9100000022,Manipal,Karnataka,Hackathon,Group,500,Creative and interactive,3
+Student23,Christ University,9100000023,Pilani,Rajasthan,Paper Presentation,Individual,250,Very creative event,5
+Student24,Manipal Institute,9100000024,Ahmedabad,Gujarat,Paper Presentation,Individual,250,Fun and informative,3
+Student25,IIT Madras,9100000025,Noida,Uttar Pradesh,Coding Challenge,Individual,200,Good exposure to projects,5
+Student26,Amrita University,9100000026,Pune,Maharashtra,Paper Presentation,Individual,250,Challenging and useful,4
+Student27,RV College,9100000027,Bangalore,Karnataka,Coding Challenge,Individual,200,Excellent experience,3
+Student28,Amrita University,9100000028,Ahmedabad,Gujarat,Quiz Competition,Group,300,Challenging and useful,5
+Student29,Christ University,9100000029,Pilani,Rajasthan,Paper Presentation,Individual,250,Good exposure to projects,5
+Student30,PES University,9100000030,Vellore,Tamil Nadu,Coding Challenge,Individual,200,Good learning experience,4
+Student31,MIT Pune,9100000031,Pune,Maharashtra,Paper Presentation,Individual,250,Good exposure to projects,4
+Student32,Christ University,9100000032,Pune,Maharashtra,Coding Challenge,Individual,200,Needs slight improvement in timing,5
+Student33,Delhi University,9100000033,Ahmedabad,Gujarat,Paper Presentation,Individual,250,Challenging and useful,5
+Student34,IIT Madras,9100000034,Noida,Uttar Pradesh,UI Design,Individual,200,Interesting and engaging session,5
+Student35,BITS Pilani,9100000035,Manipal,Karnataka,Hackathon,Group,500,Well structured event,3
+Student36,MIT Pune,9100000036,Bangalore,Karnataka,Paper Presentation,Individual,250,Very engaging and practical,5
+Student37,Delhi University,9100000037,Ahmedabad,Gujarat,Quiz Competition,Group,300,Well organized and informative,4
+Student38,IIT Madras,9100000038,Kochi,Kerala,Hackathon,Group,500,Creative and interactive,3
+Student39,RV College,9100000039,Manipal,Karnataka,Coding Challenge,Individual,200,Very engaging and practical,5
+Student40,SRM Institute,9100000040,Pune,Maharashtra,Debugging Contest,Individual,150,Interesting and engaging session,5
+Student41,Christ University,9100000041,Bangalore,Karnataka,Quiz Competition,Group,300,Very creative event,5
+Student42,Manipal Institute,9100000042,Kochi,Kerala,Project Expo,Group,400,Creative and interactive,3
+Student43,SRM Institute,9100000043,Bangalore,Karnataka,Debugging Contest,Individual,150,Creative and interactive,5
+Student44,Anna University,9100000044,Hyderabad,Telangana,UI Design,Individual,200,Excellent experience,5
+Student45,Delhi University,9100000045,Noida,Uttar Pradesh,Debugging Contest,Individual,150,Fun and informative,3
+Student46,Delhi University,9100000046,Delhi,Delhi,Debugging Contest,Individual,150,Fun and informative,5
+Student47,Delhi University,9100000047,Ahmedabad,Gujarat,Project Expo,Group,400,Very creative event,3
+Student48,SSN College,9100000048,Ahmedabad,Gujarat,Hackathon,Group,500,Good learning experience,5
+Student49,BITS Pilani,9100000049,Pilani,Rajasthan,Paper Presentation,Individual,250,Good learning experience,5
+Student50,PES University,9100000050,Pune,Maharashtra,Hackathon,Group,500,Good learning experience,3
+Student51,IIT Madras,9100000051,Chennai,Tamil Nadu,UI Design,Individual,200,Well structured event,3
+Student52,JNTU Hyderabad,9100000052,Vellore,Tamil Nadu,Debugging Contest,Individual,150,Very creative event,3
+Student53,MIT Pune,9100000053,Kochi,Kerala,Project Expo,Group,400,Needs slight improvement in timing,3
+Student54,PES University,9100000054,Hyderabad,Telangana,Debugging Contest,Individual,150,Well organized and informative,3
+Student55,SRM Institute,9100000055,Ahmedabad,Gujarat,Project Expo,Group,400,Excellent experience,3
+Student56,SSN College,9100000056,Pilani,Rajasthan,UI Design,Individual,200,Well organized and informative,4
+Student57,Christ University,9100000057,Kochi,Kerala,Quiz Competition,Group,300,Challenging and useful,4
+Student58,IIT Madras,9100000058,Ahmedabad,Gujarat,Paper Presentation,Individual,250,Good exposure to projects,5
+Student59,PES University,9100000059,Pilani,Rajasthan,UI Design,Individual,200,Very engaging and practical,4
+Student60,Amrita University,9100000060,Pilani,Rajasthan,Hackathon,Group,500,Creative and interactive,3
+Student61,IIT Madras,9100000061,Ahmedabad,Gujarat,Coding Challenge,Individual,200,Very creative event,3
+Student62,IIT Madras,9100000062,Delhi,Delhi,UI Design,Individual,200,Very engaging and practical,4
+Student63,Amrita University,9100000063,Noida,Uttar Pradesh,Debugging Contest,Individual,150,Challenging and useful,4
+Student64,SRM Institute,9100000064,Manipal,Karnataka,Project Expo,Group,400,Very creative event,4
+Student65,MIT Pune,9100000065,Bangalore,Karnataka,Debugging Contest,Individual,150,Fun and informative,3
+Student66,BITS Pilani,9100000066,Vellore,Tamil Nadu,Hackathon,Group,500,Challenging and useful,3
+Student67,PES University,9100000067,Ahmedabad,Gujarat,Paper Presentation,Individual,250,Very engaging and practical,5
+Student68,SSN College,9100000068,Kochi,Kerala,Quiz Competition,Group,300,Good learning experience,4
+Student69,MIT Pune,9100000069,Vellore,Tamil Nadu,Debugging Contest,Individual,150,Fun and informative,3
+Student70,Amrita University,9100000070,Pune,Maharashtra,Coding Challenge,Individual,200,Needs slight improvement in timing,4
+Student71,Anna University,9100000071,Manipal,Karnataka,Project Expo,Group,400,Well structured event,5
+Student72,IIT Madras,9100000072,Manipal,Karnataka,Paper Presentation,Individual,250,Very creative event,5
+Student73,RV College,9100000073,Pilani,Rajasthan,Debugging Contest,Individual,150,Well organized and informative,5
+Student74,RV College,9100000074,Vellore,Tamil Nadu,Debugging Contest,Individual,150,Good learning experience,3
+Student75,Nirma University,9100000075,Noida,Uttar Pradesh,Project Expo,Group,400,Creative and interactive,3
+Student76,Manipal Institute,9100000076,Pune,Maharashtra,Project Expo,Group,400,Good exposure to projects,3
+Student77,Delhi University,9100000077,Pilani,Rajasthan,Debugging Contest,Individual,150,Well structured event,3
+Student78,Amrita University,9100000078,Manipal,Karnataka,UI Design,Individual,200,Very creative event,3
+Student79,Christ University,9100000079,Vellore,Tamil Nadu,Debugging Contest,Individual,150,Interesting and engaging session,4
+Student80,SSN College,9100000080,Delhi,Delhi,Paper Presentation,Individual,250,Excellent experience,3
+Student81,BITS Pilani,9100000081,Vellore,Tamil Nadu,UI Design,Individual,200,Creative and interactive,4
+Student82,Amrita University,9100000082,Noida,Uttar Pradesh,Coding Challenge,Individual,200,Well organized and informative,5
+Student83,PES University,9100000083,Chennai,Tamil Nadu,UI Design,Individual,200,Interesting and engaging session,4
+Student84,BITS Pilani,9100000084,Pune,Maharashtra,UI Design,Individual,200,Challenging and useful,5
+Student85,BITS Pilani,9100000085,Delhi,Delhi,Debugging Contest,Individual,150,Excellent experience,3
+Student86,Nirma University,9100000086,Manipal,Karnataka,Coding Challenge,Individual,200,Well structured event,5
+Student87,IIT Madras,9100000087,Noida,Uttar Pradesh,UI Design,Individual,200,Very engaging and practical,5
+Student88,PES University,9100000088,Delhi,Delhi,Paper Presentation,Individual,250,Very creative event,3
+Student89,Amrita University,9100000089,Bangalore,Karnataka,Quiz Competition,Group,300,Very engaging and practical,3
+Student90,SRM Institute,9100000090,Pilani,Rajasthan,Quiz Competition,Group,300,Good exposure to projects,5
+Student91,MIT Pune,9100000091,Ahmedabad,Gujarat,Coding Challenge,Individual,200,Needs slight improvement in timing,3
+Student92,IIT Madras,9100000092,Ahmedabad,Gujarat,Paper Presentation,Individual,250,Very engaging and practical,3
+Student93,Amrita University,9100000093,Pune,Maharashtra,Debugging Contest,Individual,150,Fun and informative,3
+Student94,VIT University,9100000094,Pilani,Rajasthan,Project Expo,Group,400,Very creative event,5
+Student95,Nirma University,9100000095,Delhi,Delhi,Project Expo,Group,400,Good learning experience,4
+Student96,Amrita University,9100000096,Ahmedabad,Gujarat,UI Design,Individual,200,Creative and interactive,3
+Student97,Christ University,9100000097,Bangalore,Karnataka,Paper Presentation,Individual,250,Very creative event,5
+Student98,BITS Pilani,9100000098,Delhi,Delhi,Paper Presentation,Individual,250,Good exposure to projects,5
+Student99,Anna University,9100000099,Manipal,Karnataka,Debugging Contest,Individual,150,Creative and interactive,5
+Student100,MIT Pune,9100000100,Bangalore,Karnataka,Project Expo,Group,400,Good exposure to projects,4
+Student101,PES University,9100000101,Vellore,Tamil Nadu,Hackathon,Group,500,Interesting and engaging session,4
+Student102,Nirma University,9100000102,Chennai,Tamil Nadu,Paper Presentation,Individual,250,Fun and informative,4
+Student103,Delhi University,9100000103,Ahmedabad,Gujarat,UI Design,Individual,200,Needs slight improvement in timing,5
+Student104,JNTU Hyderabad,9100000104,Bangalore,Karnataka,Quiz Competition,Group,300,Good learning experience,3
+Student105,Anna University,9100000105,Pune,Maharashtra,Quiz Competition,Group,300,Well structured event,5
+Student106,Amrita University,9100000106,Hyderabad,Telangana,Paper Presentation,Individual,250,Needs slight improvement in timing,4
+Student107,PES University,9100000107,Bangalore,Karnataka,UI Design,Individual,200,Very engaging and practical,4
+Student108,Manipal Institute,9100000108,Bangalore,Karnataka,UI Design,Individual,200,Interesting and engaging session,5
+Student109,Amrita University,9100000109,Hyderabad,Telangana,UI Design,Individual,200,Well structured event,4
+Student110,Amrita University,9100000110,Pune,Maharashtra,Quiz Competition,Group,300,Needs slight improvement in timing,3
+Student111,VIT University,9100000111,Noida,Uttar Pradesh,Project Expo,Group,400,Well organized and informative,4
+Student112,Anna University,9100000112,Noida,Uttar Pradesh,Quiz Competition,Group,300,Well organized and informative,3
+Student113,JNTU Hyderabad,9100000113,Pune,Maharashtra,Quiz Competition,Group,300,Excellent experience,3
+Student114,JNTU Hyderabad,9100000114,Chennai,Tamil Nadu,UI Design,Individual,200,Creative and interactive,5
+Student115,Nirma University,9100000115,Hyderabad,Telangana,Paper Presentation,Individual,250,Creative and interactive,3
+Student116,IIT Madras,9100000116,Pilani,Rajasthan,UI Design,Individual,200,Good exposure to projects,4
+Student117,MIT Pune,9100000117,Noida,Uttar Pradesh,Debugging Contest,Individual,150,Creative and interactive,4
+Student118,MIT Pune,9100000118,Delhi,Delhi,Debugging Contest,Individual,150,Very engaging and practical,4
+Student119,SSN College,9100000119,Pune,Maharashtra,Paper Presentation,Individual,250,Creative and interactive,5
+Student120,Manipal Institute,9100000120,Vellore,Tamil Nadu,Hackathon,Group,500,Fun and informative,5
+Student121,JNTU Hyderabad,9100000121,Kochi,Kerala,Hackathon,Group,500,Well structured event,4
+Student122,Amrita University,9100000122,Chennai,Tamil Nadu,Project Expo,Group,400,Challenging and useful,4
+Student123,PES University,9100000123,Kochi,Kerala,Debugging Contest,Individual,150,Challenging and useful,5
+Student124,Manipal Institute,9100000124,Vellore,Tamil Nadu,Paper Presentation,Individual,250,Interesting and engaging session,5
+Student125,SRM Institute,9100000125,Vellore,Tamil Nadu,UI Design,Individual,200,Good exposure to projects,3
+Student126,Christ University,9100000126,Noida,Uttar Pradesh,Quiz Competition,Group,300,Needs slight improvement in timing,3
+Student127,Amrita University,9100000127,Noida,Uttar Pradesh,Project Expo,Group,400,Challenging and useful,5
+Student128,PES University,9100000128,Bangalore,Karnataka,UI Design,Individual,200,Well structured event,3
+Student129,MIT Pune,9100000129,Kochi,Kerala,Project Expo,Group,400,Very creative event,5
+Student130,SSN College,9100000130,Bangalore,Karnataka,UI Design,Individual,200,Well organized and informative,4
+Student131,Amrita University,9100000131,Delhi,Delhi,Coding Challenge,Individual,200,Needs slight improvement in timing,5
+Student132,Anna University,9100000132,Noida,Uttar Pradesh,Project Expo,Group,400,Very creative event,3
+Student133,Anna University,9100000133,Vellore,Tamil Nadu,Paper Presentation,Individual,250,Good exposure to projects,3
+Student134,VIT University,9100000134,Ahmedabad,Gujarat,Paper Presentation,Individual,250,Very creative event,5
+Student135,Nirma University,9100000135,Ahmedabad,Gujarat,Quiz Competition,Group,300,Excellent experience,4
+Student136,VIT University,9100000136,Pilani,Rajasthan,Coding Challenge,Individual,200,Creative and interactive,5
+Student137,JNTU Hyderabad,9100000137,Pune,Maharashtra,Coding Challenge,Individual,200,Creative and interactive,3
+Student138,JNTU Hyderabad,9100000138,Pilani,Rajasthan,Project Expo,Group,400,Well structured event,3
+Student139,PES University,9100000139,Kochi,Kerala,Coding Challenge,Individual,200,Excellent experience,3
+Student140,MIT Pune,9100000140,Pune,Maharashtra,Debugging Contest,Individual,150,Well organized and informative,4
+Student141,Nirma University,9100000141,Kochi,Kerala,Hackathon,Group,500,Well organized and informative,4
+Student142,Nirma University,9100000142,Pilani,Rajasthan,UI Design,Individual,200,Fun and informative,4
+Student143,JNTU Hyderabad,9100000143,Delhi,Delhi,UI Design,Individual,200,Good exposure to projects,3
+Student144,VIT University,9100000144,Ahmedabad,Gujarat,Debugging Contest,Individual,150,Well organized and informative,3
+Student145,MIT Pune,9100000145,Ahmedabad,Gujarat,UI Design,Individual,200,Needs slight improvement in timing,5
+Student146,Delhi University,9100000146,Kochi,Kerala,Quiz Competition,Group,300,Well structured event,3
+Student147,Delhi University,9100000147,Vellore,Tamil Nadu,UI Design,Individual,200,Interesting and engaging session,3
+Student148,SRM Institute,9100000148,Manipal,Karnataka,Quiz Competition,Group,300,Well structured event,4
+Student149,Christ University,9100000149,Noida,Uttar Pradesh,Hackathon,Group,500,Good exposure to projects,3
+Student150,JNTU Hyderabad,9100000150,Delhi,Delhi,Project Expo,Group,400,Fun and informative,5
+Student151,Christ University,9100000151,Chennai,Tamil Nadu,Project Expo,Group,400,Interesting and engaging session,5
+Student152,SRM Institute,9100000152,Hyderabad,Telangana,Coding Challenge,Individual,200,Challenging and useful,4
+Student153,PES University,9100000153,Vellore,Tamil Nadu,Paper Presentation,Individual,250,Very creative event,4
+Student154,RV College,9100000154,Manipal,Karnataka,Hackathon,Group,500,Challenging and useful,5
+Student155,Amrita University,9100000155,Vellore,Tamil Nadu,Coding Challenge,Individual,200,Good exposure to projects,5
+Student156,Anna University,9100000156,Pilani,Rajasthan,Debugging Contest,Individual,150,Interesting and engaging session,5
+Student157,RV College,9100000157,Kochi,Kerala,Hackathon,Group,500,Needs slight improvement in timing,3
+Student158,Delhi University,9100000158,Bangalore,Karnataka,Paper Presentation,Individual,250,Very engaging and practical,5
+Student159,JNTU Hyderabad,9100000159,Manipal,Karnataka,Hackathon,Group,500,Very creative event,3
+Student160,PES University,9100000160,Chennai,Tamil Nadu,UI Design,Individual,200,Very creative event,5
+Student161,JNTU Hyderabad,9100000161,Manipal,Karnataka,Coding Challenge,Individual,200,Good exposure to projects,3
+Student162,Delhi University,9100000162,Ahmedabad,Gujarat,Debugging Contest,Individual,150,Fun and informative,5
+Student163,IIT Madras,9100000163,Kochi,Kerala,Coding Challenge,Individual,200,Interesting and engaging session,4
+Student164,BITS Pilani,9100000164,Vellore,Tamil Nadu,Paper Presentation,Individual,250,Challenging and useful,4
+Student165,RV College,9100000165,Pilani,Rajasthan,Debugging Contest,Individual,150,Creative and interactive,3
+Student166,IIT Madras,9100000166,Pilani,Rajasthan,Coding Challenge,Individual,200,Good learning experience,3
+Student167,IIT Madras,9100000167,Manipal,Karnataka,Project Expo,Group,400,Good learning experience,4
+Student168,Anna University,9100000168,Bangalore,Karnataka,Debugging Contest,Individual,150,Fun and informative,3
+Student169,RV College,9100000169,Bangalore,Karnataka,UI Design,Individual,200,Well organized and informative,5
+Student170,IIT Madras,9100000170,Vellore,Tamil Nadu,Hackathon,Group,500,Very engaging and practical,3
+Student171,MIT Pune,9100000171,Chennai,Tamil Nadu,Coding Challenge,Individual,200,Creative and interactive,3
+Student172,Amrita University,9100000172,Noida,Uttar Pradesh,UI Design,Individual,200,Needs slight improvement in timing,4
+Student173,SSN College,9100000173,Pilani,Rajasthan,Quiz Competition,Group,300,Good learning experience,4
+Student174,MIT Pune,9100000174,Pilani,Rajasthan,Coding Challenge,Individual,200,Well structured event,4
+Student175,SSN College,9100000175,Bangalore,Karnataka,Debugging Contest,Individual,150,Well structured event,5
+Student176,Christ University,9100000176,Pilani,Rajasthan,Debugging Contest,Individual,150,Well structured event,3
+Student177,PES University,9100000177,Pune,Maharashtra,Project Expo,Group,400,Fun and informative,4
+Student178,PES University,9100000178,Chennai,Tamil Nadu,Hackathon,Group,500,Very engaging and practical,3
+Student179,SSN College,9100000179,Bangalore,Karnataka,Quiz Competition,Group,300,Excellent experience,3
+Student180,PES University,9100000180,Kochi,Kerala,Coding Challenge,Individual,200,Challenging and useful,3
+Student181,Nirma University,9100000181,Pune,Maharashtra,Debugging Contest,Individual,150,Interesting and engaging session,4
+Student182,SSN College,9100000182,Chennai,Tamil Nadu,UI Design,Individual,200,Very creative event,5
+Student183,Christ University,9100000183,Delhi,Delhi,Debugging Contest,Individual,150,Creative and interactive,5
+Student184,Anna University,9100000184,Pilani,Rajasthan,Project Expo,Group,400,Well structured event,4
+Student185,JNTU Hyderabad,9100000185,Noida,Uttar Pradesh,Coding Challenge,Individual,200,Creative and interactive,4
+Student186,Anna University,9100000186,Hyderabad,Telangana,Paper Presentation,Individual,250,Good exposure to projects,4
+Student187,Christ University,9100000187,Bangalore,Karnataka,Quiz Competition,Group,300,Very engaging and practical,3
+Student188,SRM Institute,9100000188,Noida,Uttar Pradesh,Coding Challenge,Individual,200,Needs slight improvement in timing,4
+Student189,Anna University,9100000189,Pune,Maharashtra,Coding Challenge,Individual,200,Excellent experience,5
+Student190,SSN College,9100000190,Pilani,Rajasthan,Project Expo,Group,400,Very creative event,3
+Student191,IIT Madras,9100000191,Pune,Maharashtra,Hackathon,Group,500,Well structured event,5
+Student192,BITS Pilani,9100000192,Bangalore,Karnataka,Hackathon,Group,500,Creative and interactive,4
+Student193,Nirma University,9100000193,Pilani,Rajasthan,UI Design,Individual,200,Well structured event,5
+Student194,Delhi University,9100000194,Ahmedabad,Gujarat,Paper Presentation,Individual,250,Very engaging and practical,5
+Student195,BITS Pilani,9100000195,Kochi,Kerala,Paper Presentation,Individual,250,Interesting and engaging session,4
+Student196,SRM Institute,9100000196,Vellore,Tamil Nadu,UI Design,Individual,200,Very engaging and practical,4
+Student197,SRM Institute,9100000197,Manipal,Karnataka,Paper Presentation,Individual,250,Creative and interactive,5
+Student198,Delhi University,9100000198,Vellore,Tamil Nadu,Coding Challenge,Individual,200,Good learning experience,4
+Student199,JNTU Hyderabad,9100000199,Bangalore,Karnataka,Paper Presentation,Individual,250,Well structured event,3
+Student200,SRM Institute,9100000200,Vellore,Tamil Nadu,Quiz Competition,Group,300,Fun and informative,4
+Student201,BITS Pilani,9100000201,Pilani,Rajasthan,Hackathon,Group,500,Fun and informative,4
+Student202,SRM Institute,9100000202,Hyderabad,Telangana,Hackathon,Group,500,Very engaging and practical,3
+Student203,BITS Pilani,9100000203,Pilani,Rajasthan,Project Expo,Group,400,Very engaging and practical,4
+Student204,Anna University,9100000204,Pilani,Rajasthan,Paper Presentation,Individual,250,Good exposure to projects,4
+Student205,IIT Madras,9100000205,Pilani,Rajasthan,Project Expo,Group,400,Fun and informative,5
+Student206,BITS Pilani,9100000206,Vellore,Tamil Nadu,Paper Presentation,Individual,250,Very engaging and practical,4
+Student207,MIT Pune,9100000207,Manipal,Karnataka,Quiz Competition,Group,300,Good exposure to projects,3
+Student208,Amrita University,9100000208,Bangalore,Karnataka,Debugging Contest,Individual,150,Excellent experience,5
+Student209,Nirma University,9100000209,Noida,Uttar Pradesh,Hackathon,Group,500,Excellent experience,4
+Student210,IIT Madras,9100000210,Delhi,Delhi,UI Design,Individual,200,Very engaging and practical,5
+Student211,Christ University,9100000211,Manipal,Karnataka,UI Design,Individual,200,Challenging and useful,5
+Student212,MIT Pune,9100000212,Vellore,Tamil Nadu,Project Expo,Group,400,Good exposure to projects,4
+Student213,Delhi University,9100000213,Delhi,Delhi,Debugging Contest,Individual,150,Fun and informative,3
+Student214,PES University,9100000214,Pune,Maharashtra,UI Design,Individual,200,Very creative event,5
+Student215,Nirma University,9100000215,Ahmedabad,Gujarat,Debugging Contest,Individual,150,Needs slight improvement in timing,4
+Student216,MIT Pune,9100000216,Manipal,Karnataka,Project Expo,Group,400,Needs slight improvement in timing,5
+Student217,Christ University,9100000217,Ahmedabad,Gujarat,Debugging Contest,Individual,150,Fun and informative,3
+Student218,VIT University,9100000218,Kochi,Kerala,Hackathon,Group,500,Fun and informative,4
+Student219,MIT Pune,9100000219,Pilani,Rajasthan,Project Expo,Group,400,Interesting and engaging session,5
+Student220,IIT Madras,9100000220,Delhi,Delhi,Hackathon,Group,500,Interesting and engaging session,3
+Student221,Christ University,9100000221,Hyderabad,Telangana,Project Expo,Group,400,Good exposure to projects,5
+Student222,IIT Madras,9100000222,Delhi,Delhi,UI Design,Individual,200,Very engaging and practical,3
+Student223,BITS Pilani,9100000223,Pune,Maharashtra,Hackathon,Group,500,Very engaging and practical,5
+Student224,JNTU Hyderabad,9100000224,Pilani,Rajasthan,Hackathon,Group,500,Very creative event,4
+Student225,Christ University,9100000225,Manipal,Karnataka,Paper Presentation,Individual,250,Fun and informative,4
+Student226,MIT Pune,9100000226,Ahmedabad,Gujarat,Coding Challenge,Individual,200,Fun and informative,5
+Student227,Manipal Institute,9100000227,Hyderabad,Telangana,Paper Presentation,Individual,250,Good exposure to projects,3
+Student228,Delhi University,9100000228,Delhi,Delhi,Quiz Competition,Group,300,Challenging and useful,5
+Student229,Anna University,9100000229,Chennai,Tamil Nadu,Project Expo,Group,400,Interesting and engaging session,4
+Student230,Delhi University,9100000230,Delhi,Delhi,Debugging Contest,Individual,150,Challenging and useful,3
+Student231,PES University,9100000231,Vellore,Tamil Nadu,Quiz Competition,Group,300,Good learning experience,3
+Student232,Christ University,9100000232,Ahmedabad,Gujarat,UI Design,Individual,200,Well structured event,3
+Student233,RV College,9100000233,Bangalore,Karnataka,Debugging Contest,Individual,150,Good learning experience,5
+Student234,RV College,9100000234,Chennai,Tamil Nadu,Debugging Contest,Individual,150,Good exposure to projects,4
+Student235,Christ University,9100000235,Hyderabad,Telangana,UI Design,Individual,200,Well organized and informative,3
+Student236,Christ University,9100000236,Noida,Uttar Pradesh,Project Expo,Group,400,Needs slight improvement in timing,4
+Student237,IIT Madras,9100000237,Kochi,Kerala,Coding Challenge,Individual,200,Very engaging and practical,5
+Student238,SRM Institute,9100000238,Delhi,Delhi,Project Expo,Group,400,Very creative event,4
+Student239,IIT Madras,9100000239,Vellore,Tamil Nadu,Project Expo,Group,400,Good exposure to projects,3
+Student240,SRM Institute,9100000240,Kochi,Kerala,Coding Challenge,Individual,200,Fun and informative,3
+Student241,PES University,9100000241,Bangalore,Karnataka,Debugging Contest,Individual,150,Very creative event,3
+Student242,Delhi University,9100000242,Ahmedabad,Gujarat,Coding Challenge,Individual,200,Challenging and useful,5
+Student243,RV College,9100000243,Chennai,Tamil Nadu,Paper Presentation,Individual,250,Very creative event,4
+Student244,RV College,9100000244,Delhi,Delhi,UI Design,Individual,200,Challenging and useful,5
+Student245,BITS Pilani,9100000245,Kochi,Kerala,Paper Presentation,Individual,250,Interesting and engaging session,4
+Student246,Anna University,9100000246,Manipal,Karnataka,Coding Challenge,Individual,200,Fun and informative,4
+Student247,Delhi University,9100000247,Pune,Maharashtra,UI Design,Individual,200,Excellent experience,5
+Student248,Manipal Institute,9100000248,Manipal,Karnataka,Coding Challenge,Individual,200,Well structured event,4
+Student249,IIT Madras,9100000249,Delhi,Delhi,UI Design,Individual,200,Needs slight improvement in timing,5
+Student250,Manipal Institute,9100000250,Ahmedabad,Gujarat,Quiz Competition,Group,300,Very creative event,5
