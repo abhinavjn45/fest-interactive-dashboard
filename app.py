@@ -340,3 +340,6 @@ with tab3:
         st.dataframe(fb[['Student Name', 'College', 'Event Name', 'Feedback on Fest', 'Rating']], use_container_width=True, hide_index=True)
         csv_ff = fb.to_csv(index=False).encode('utf-8')
         st.download_button("Download Feedback Data", data=csv_ff, file_name="fb_data.csv", mime="text/csv")
+
+st.markdown("---")
+st.markdown("<p style='text-align: center; color: grey;'>GATEWAYS-2025 Dashboard<br>Abhinav Jain | Register Number: 2547203 | Class: 3 MCA B</p>", unsafe_allow_html=True)
